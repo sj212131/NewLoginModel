@@ -20,7 +20,7 @@ function App() {
           Login
         </button>
         <button type="button" class="btn btn-primary btn-lg">
-          log out
+          Sign up
         </button>
       </div>
     </div>
