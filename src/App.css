@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: #41b3a3;
 }
 
 .App-logo {
@@ -35,4 +36,34 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#LoginModel {
+  margin-top: 15%;
+}
+
+.usernameInput,
+.passwordInput {
+  margin: 1.5rem 0;
+}
+
+.buttomForm {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+#loginBtn,
+#signUpBtn {
+  margin: 0.5rem;
+  cursor: pointer;
+  width: 250px;
+}
+
+.form input {
+  width: 510px;
+  text-align: center;
+}
+
+.form p {
+  font-weight: bold;
 }
